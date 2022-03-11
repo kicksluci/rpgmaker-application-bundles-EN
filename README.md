@@ -44,7 +44,9 @@ All applications tested on a MacBook Air (M1, 2020) running macOS 12.2.1 "Monter
 
 danyisill | [For the original application bundle template, thank you so much <3](https://github.com/danyisill/easyrpg-macbundles)
 
-vgperson | [For all English translations](https://www.vgperson.com/games/)
+vgperson | [For all English translations.](https://www.vgperson.com/games/)
+
+EasyRPG Team | [For the actual cross-platform tool to make it work on macOS.](https://easyrpg.org/)
 
 nataffy | Raccoon man who helped me test these out on his MacBook Air (13-inch, 2017)
 
