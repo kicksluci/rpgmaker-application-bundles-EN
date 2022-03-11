@@ -16,6 +16,7 @@ Return of Touhou Mother | by S-tele v1.00
 Touhou-A-Live | by Koki v1.07
 Yume Nikki | by Kikiyama v0.10a 
 Standstill Girl | by Uta v1.00
+Mimicry Man | by Kazusa Norakumo v1.07
 ```
 
 ## Releases/Downloads
