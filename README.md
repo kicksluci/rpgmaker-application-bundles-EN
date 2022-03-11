@@ -73,7 +73,7 @@ Suicide/Death, Sexual Assault, Jumpscares, Violence and Gore, Nudity, Cannibalis
 
 You can find out more about all of these games at [vgperson's site](https://www.vgperson.com/games/), who also happened to make all of the English translations to these games. 
 
-## Japanese Repo 
+## Japanese Repository 
 
 [W.I.P ROUGH TRANSLATION](https://github.com/kicksluci/rpgmaker-application-bundles-JPN)
 
