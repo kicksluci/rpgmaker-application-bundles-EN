@@ -75,7 +75,8 @@ You can find out more about all of these games at [vgperson's site](https://www.
 
 ## Japanese Repo 
 
-W.I.P
+[W.I.P ROUGH TRANSLATION](https://github.com/kicksluci/rpgmaker-application-bundles-JPN)
+
 
 ## License
 [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
