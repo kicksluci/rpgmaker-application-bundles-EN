@@ -49,6 +49,8 @@ vgperson | [For all English translations.](https://www.vgperson.com/games/)
 
 EasyRPG Team | [For the actual cross-platform tool to make it work on macOS.](https://easyrpg.org/)
 
+Hachi | Japanese translation.
+
 nataffy | Raccoon man who helped me test these out on his MacBook Air (13-inch, 2017)
 
 And to all of the original creators of these amazing games. 
