@@ -38,7 +38,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
-All applications test on a MacBook Air (M1, 2020) running macOS 12.2.1 "Monterey" 
+All applications tested on a MacBook Air (M1, 2020) running macOS 12.2.1 "Monterey" and a MacBook Air (13-inch, 2017) running macOS 12.2.1 "Monterey" 
 
 ## Credit
 
