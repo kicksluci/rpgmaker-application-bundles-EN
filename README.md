@@ -17,6 +17,10 @@ Touhou-A-Live | by Koki v1.07
 Yume Nikki | by Kikiyama v0.10a 
 Standstill Girl | by Uta v1.00
 Mimicry Man | by Kazusa Norakumo v1.07
+The Gray Garden | by Deep-Sea Prisoner v1.08
+Wadanohara and the Great Blue Sea | by Deep-Sea Prisoner v1.08
+Farethere City | by Segawa v2.02
+Walking on a Star Unknown | by Segawa v2.01
 ```
 
 ## Releases/Downloads
@@ -58,6 +62,10 @@ And to all of the original creators of these amazing games.
 If you have any questions or want any help, feel free to message me on Discord!
 
 ```Luci!#3878```
+
+## Japanese Repo 
+
+W.I.P
 
 ## License
 [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
