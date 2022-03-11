@@ -73,5 +73,3 @@ Japanese releases will come once all English versions have been released.
 
 ## License
 [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
-
-Sorry if it is the wrong license. I'm sure I got it right though. :)
