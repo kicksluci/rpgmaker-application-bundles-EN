@@ -13,18 +13,18 @@ macOS 10.13 "High Sierra" or above. That's it. These games can run on a literal 
 ## Games
 
 ```
-Ib | by kouri v1.07
-END ROLL | by Segawa v2.01
-Touhou Mother | by S-tele v1.00
-Return of Touhou Mother | by S-tele v1.00
-Touhou-A-Live | by Koki v1.07
-Yume Nikki | by Kikiyama v0.10a 
-Standstill Girl | by Uta v1.00
-Mimicry Man | by Kazusa Norakumo v1.07
-The Gray Garden | by Deep-Sea Prisoner v1.08
+Ib                                | by kouri v1.07
+END ROLL                          | by Segawa v2.01
+Touhou Mother                     | by S-tele v1.00
+Return of Touhou Mother           | by S-tele v1.00
+Touhou-A-Live                     | by Koki v1.07
+Yume Nikki                        | by Kikiyama v0.10a 
+Standstill Girl                   | by Uta v1.00
+Mimicry Man                       | by Kazusa Norakumo v1.07
+The Gray Garden                   | by Deep-Sea Prisoner v1.08
 Wadanohara and the Great Blue Sea | by Deep-Sea Prisoner v1.08
-Farethere City | by Segawa v2.02
-Walking on a Star Unknown | by Segawa v2.01
+Farethere City                    | by Segawa v2.02
+Walking on a Star Unknown         | by Segawa v2.01
 ```
 
 ## Releases/Downloads
