@@ -6,6 +6,10 @@ Simple, pre-made application bundles for popular RPG Maker 2000 / 2003 games.
 
 Just mount the .dmg file and drag and drop to Applications. That easy. 
 
+## System Requirements
+
+macOS 10.13 "High Sierra" or above. That's it. These games can run on a literal potato. 
+
 ## Games
 
 ```
