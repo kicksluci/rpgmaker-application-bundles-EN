@@ -69,6 +69,7 @@ You can find out more about all of these games at [vgperson's site](https://www.
 
 [W.I.P ROUGH TRANSLATION](https://github.com/kicksluci/rpgmaker-application-bundles-JPN)
 
+Japanese releases will come once all English versions have been released.
 
 ## License
 [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
