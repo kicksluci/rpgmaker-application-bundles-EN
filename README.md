@@ -52,6 +52,12 @@ nataffy | Raccoon man who helped me test these out on his MacBook Air (13-inch, 
 
 And to all of the original creators of these amazing games. 
 
+## Contact Me!
+
+If you have any questions or want any help Feel free to message me on Discord!
+
+```Luci!#3878```
+
 ## License
 [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
 
