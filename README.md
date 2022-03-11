@@ -46,6 +46,8 @@ danyisill | [For the original application bundle template, thank you so much <3]
 
 vgperson | [For all English translations](https://www.vgperson.com/games/)
 
+nataffy | Raccoon man who helped me test these out on his MacBook Air (13-inch, 2017)
+
 And to all of the original creators of these amazing games. 
 
 ## License
