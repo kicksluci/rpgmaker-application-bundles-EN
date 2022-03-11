@@ -40,7 +40,7 @@ Please make sure to update tests as appropriate.
 
 All applications tested on a MacBook Air (M1, 2020) running macOS 12.2.1 "Monterey" and a MacBook Air (13-inch, 2017) running macOS 12.2.1 "Monterey" 
 
-## Credit
+## Credits
 
 danyisill | [For the original application bundle template, thank you so much <3](https://github.com/danyisill/easyrpg-macbundles)
 
