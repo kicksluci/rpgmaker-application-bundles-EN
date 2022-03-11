@@ -36,16 +36,8 @@ None yet, I'll upload them soon :)
 Sadly, EasyRPG Maker doesn't have native M1 support. 
 If it does at a later date, I'll be sure to add ARM compatiable releases. 
 
-## RPGMaker VX When????
-
-Man I wish...
-But I do have future plans to get them working on macOS in some shape or form.
-I'll be seeing if there is any way to get RPG Maker 95 games to run too. I just want Palette by Yoshitaka Nishida to run. 
-
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
 
 All applications tested on a MacBook Air (M1, 2020) running macOS 12.2.1 "Monterey" and a MacBook Air (13-inch, 2017) running macOS 12.2.1 "Monterey" 
 
