@@ -49,4 +49,4 @@ And to all of the original creators of these amazing games.
 ## License
 [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
 
-Sorry if it is the wrong lisence. I'm sure I got it right though. :)
+Sorry if it is the wrong license. I'm sure I got it right though. :)
