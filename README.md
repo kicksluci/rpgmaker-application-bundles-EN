@@ -54,7 +54,7 @@ And to all of the original creators of these amazing games.
 
 ## Contact Me!
 
-If you have any questions or want any help Feel free to message me on Discord!
+If you have any questions or want any help, feel free to message me on Discord!
 
 ```Luci!#3878```
 
