@@ -38,6 +38,8 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
+All applications test on a MacBook Air (M1, 2020) running macOS 12.2.1 "Monterey" 
+
 ## Credit
 
 danyisill | [For the original application bundle template, thank you so much <3](https://github.com/danyisill/easyrpg-macbundles)
