@@ -63,7 +63,7 @@ If you have any questions or want any help, feel free to message me on Discord!
 
 ## CONTENT WARNING 
 Allot of these games contain graphic content such as - 
-Suicide/Death, Sexual Assault, Jumpscares, Violence and Gore, Nudity, Cannibalism, Drug Addiction, Body Horror, Jumpscares etc. 
+Suicide/Death, Sexual Assault, Jumpscares, Violence and Gore, Nudity, Cannibalism, Drug Addiction, Body Horror etc. 
 
 You can find out more about all of these games at [vgperson's site](https://www.vgperson.com/games/), who also happened to make all of the English translations to these games. 
 
